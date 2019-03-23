@@ -1,5 +1,5 @@
 var colorsArray = {
-    colors:[
+colors:[
         {
             "name":"green",
             "red":"64",
